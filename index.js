@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
-  element = first element
+  var element = first element
   return element 
 }
